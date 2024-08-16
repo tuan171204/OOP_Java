@@ -1,0 +1,8 @@
+Ma Phieu Nhap: 1
+
+-------------------------------PHIEU NHAP-------------------------
+Ma San pham: 002, So luong: 1, don gia : 120.0, thanh tien : 120.0
+Ma nha cung cap: MMO
+Ngay xuat phieu:12
+Tong so luong san pham: 1
+Tong tien:120.0

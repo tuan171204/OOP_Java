@@ -1,0 +1,7 @@
++ Đã hoàn tất thêm menu và xóa sửa, xuất thông tin, đọc ghi file của nhân viên & khách hàng
+
+
+- Mới thêm Menu cho Nhà cung cấp & Phiếu nhập
+- Menu với mấy phương thức ( thêm, sửa, xóa, đoc/ghi file ) của nhà cung cấp & danh sách nhà cung cấp tạm ổn ( làm cứ na ná với danh sách hóa đơn sao ấy, không biết có sao không )
+- Còn danh sách phiếu nhập với danh sách chi tiết phiếu nhập mới làm đỡ cái Menu, ngoài ra chưa làm gì hết
+- đã chỉnh lại Menu, đã chuyển hết đọc File ra một phân riêng, đã thêm hàm đọc nhập hàng vào sản phẩm.

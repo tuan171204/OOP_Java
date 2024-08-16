@@ -1,0 +1,15 @@
+SP002, Dong Ho B, 8, 150.0, Vang, Casio, Quartz
+SP004, Dong Ho D, 15, 250.0, Vang, Seiko, Quartz
+SP006, Dong Ho F, 10, 190.0, Den, Tissot, Quartz
+SP008, Dong Ho H, 12, 270.0, Vang, Citizen, Quartz
+SP010, Dong Ho J, 11, 200.0, Bac, Rolex, May Cu
+SP012, Dong Ho L, 5, 180.0, Den, Omega, Da
+SP014, Dong Ho N, 7, 220.0, Bac, Tag Heuer, Rolex
+SP001, Day Truyen A, 11, 200.0, Bac, 15.0, May Co
+SP003, Day Truyen C, 5, 180.0, Den, 20.0, Da
+SP005, Day Truyen E, 7, 220.0, Bac, 15.0, Kim Loai
+SP007, Day Truyen G, 9, 230.0, Bac, 12.0, Da
+SP009, Day Truyen I, 6, 210.0, Den, 18.0, Kim Loai
+SP011, Day Truyen K, 8, 150.0, Vang, 2.0, Quartz
+SP013, Day Truyen M, 15, 250.0, Vang, 7.0, Quartz
+SP015, Day Truyen O, 10, 190.0, Den, 8.0, Quartz

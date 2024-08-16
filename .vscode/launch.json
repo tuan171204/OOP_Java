@@ -1,0 +1,63 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "TrangSuc_dec44eec"
+        },
+        {
+            "type": "java",
+            "name": "test_xongxoa",
+            "request": "launch",
+            "mainClass": "test_xongxoa",
+            "projectName": "TrangSuc_1f232dce"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "TrangSuc_1f232dce"
+        },
+        {
+            "type": "java",
+            "name": "test_xongxoa",
+            "request": "launch",
+            "mainClass": "test_xongxoa",
+            "projectName": "test_85fb7e39"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "test_85fb7e39"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "TrangSuc_ae3cbcfc"
+        },
+        {
+            "type": "java",
+            "name": "test_xongxoa",
+            "request": "launch",
+            "mainClass": "test_xongxoa",
+            "projectName": "TrangSuc_ae3cbcfc"
+        }
+    ]
+}
